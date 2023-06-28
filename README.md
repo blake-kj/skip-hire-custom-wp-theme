@@ -1,4 +1,4 @@
-# Custom WordPress Theme
+# Custom WordPress Theme (Skip Hire Company)
 
 I followed this [YouTube tutorial](https://www.youtube.com/watch?v=cLhnubqavDg) on how to create a custom WordPress theme for a skip company based in Australia.
 
